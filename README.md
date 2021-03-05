@@ -1,6 +1,8 @@
 # nextjs-tailwind-boilerplate
 
-## included:
+## click `Use this template' to create new repository with this template
+
+### included:
 
 - tailwind config
   - purge options
