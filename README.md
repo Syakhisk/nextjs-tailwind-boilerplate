@@ -1,6 +1,6 @@
 # nextjs-tailwind-boilerplate
 
-## click `Use this template' to create new repository with this template
+## click `Use this template` to create new repository with this template
 
 ### included:
 
